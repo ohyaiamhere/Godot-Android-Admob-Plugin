@@ -35,3 +35,5 @@ If you like to add your game in this list open an issue or send me a pull reques
 - [WoW Death Roll Simulator](https://play.google.com/store/apps/details?id=ch.jackfruit.deathrollsimulator)
 - [Zeptris](https://play.google.com/store/apps/details?id=net.wynoo.zeptris)
 - [Zone Crush - A Match 3 Game 2020](https://play.google.com/store/apps/details?id=com.GamesForLife.ZoneCrush)
+- [Bomber Pilot](https://play.google.com/store/apps/details?id=org.ohyaiamheregames.bomberpilot&hl=en_IN&gl=US)
+- [Bomber Pilot 2](https://play.google.com/store/apps/details?id=org.ohyaiamheregames.bomberpilottwo&hl=en_IN&gl=US)
